@@ -1,0 +1,111 @@
+
+heidong.png
+size: 1227,1010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baobaotangguobeijintexiao/black_hole_particle_00
+  rotate: false
+  xy: 447, 758
+  size: 258, 250
+  orig: 258, 250
+  offset: 0, 0
+  index: -1
+baobaotangguobeijintexiao/black_hole_particle_01
+  rotate: false
+  xy: 522, 2
+  size: 256, 250
+  orig: 258, 250
+  offset: 1, 0
+  index: -1
+baobaotangguobeijintexiao/black_hole_particle_02
+  rotate: false
+  xy: 2, 63
+  size: 258, 250
+  orig: 258, 250
+  offset: 0, 0
+  index: -1
+baobaotangguobeijintexiao/black_hole_particle_03
+  rotate: false
+  xy: 707, 758
+  size: 258, 250
+  orig: 258, 250
+  offset: 0, 0
+  index: -1
+baobaotangguobeijintexiao/black_hole_particle_04
+  rotate: false
+  xy: 967, 758
+  size: 258, 250
+  orig: 258, 250
+  offset: 0, 0
+  index: -1
+baobaotangguobeijintexiao/black_hole_particle_05
+  rotate: false
+  xy: 447, 506
+  size: 258, 250
+  orig: 258, 250
+  offset: 0, 0
+  index: -1
+baobaotangguobeijintexiao/black_hole_particle_06
+  rotate: false
+  xy: 707, 506
+  size: 258, 250
+  orig: 258, 250
+  offset: 0, 0
+  index: -1
+baobaotangguobeijintexiao/black_hole_particle_07
+  rotate: false
+  xy: 967, 506
+  size: 258, 250
+  orig: 258, 250
+  offset: 0, 0
+  index: -1
+baobaotangguobeijintexiao/black_hole_particle_08
+  rotate: false
+  xy: 262, 254
+  size: 258, 250
+  orig: 258, 250
+  offset: 0, 0
+  index: -1
+baobaotangguobeijintexiao/black_hole_particle_09
+  rotate: false
+  xy: 780, 2
+  size: 252, 250
+  orig: 258, 250
+  offset: 5, 0
+  index: -1
+baobaotangguobeijintexiao/black_hole_particle_10
+  rotate: false
+  xy: 522, 254
+  size: 258, 250
+  orig: 258, 250
+  offset: 0, 0
+  index: -1
+baobaotangguobeijintexiao/black_hole_particle_11
+  rotate: false
+  xy: 782, 254
+  size: 258, 250
+  orig: 258, 250
+  offset: 0, 0
+  index: -1
+baobaotangguobeijintexiao/black_hole_particle_12
+  rotate: false
+  xy: 262, 2
+  size: 258, 250
+  orig: 258, 250
+  offset: 0, 0
+  index: -1
+baobaotangguobeijintexiao/black_hole_particle_13
+  rotate: false
+  xy: 2, 315
+  size: 258, 250
+  orig: 258, 250
+  offset: 0, 0
+  index: -1
+black_hole_dark
+  rotate: false
+  xy: 2, 567
+  size: 443, 441
+  orig: 461, 459
+  offset: 9, 9
+  index: -1

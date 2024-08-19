@@ -1,0 +1,27 @@
+
+bt_light.png
+size: 760,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youxijiemianbeijinditu/light_bulb_off
+  rotate: false
+  xy: 2, 48
+  size: 756, 18
+  orig: 756, 20
+  offset: 0, 1
+  index: -1
+youxijiemianbeijinditu/light_bulb_on_01
+  rotate: false
+  xy: 2, 25
+  size: 738, 21
+  orig: 738, 21
+  offset: 0, 0
+  index: -1
+youxijiemianbeijinditu/light_bulb_on_02
+  rotate: false
+  xy: 2, 2
+  size: 723, 21
+  orig: 723, 21
+  offset: 0, 0
+  index: -1

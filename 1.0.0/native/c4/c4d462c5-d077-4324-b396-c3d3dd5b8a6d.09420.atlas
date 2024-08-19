@@ -1,0 +1,132 @@
+
+fastline.png
+size: 1114,696
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/dengdieluoguangxiao/fs_vfx_d_add_00
+  rotate: true
+  xy: 177, 569
+  size: 60, 576
+  orig: 165, 579
+  offset: 51, 3
+  index: -1
+image/dengdieluoguangxiao/fs_vfx_d_add_01
+  rotate: true
+  xy: 177, 383
+  size: 60, 574
+  orig: 165, 579
+  offset: 51, 5
+  index: -1
+image/dengdieluoguangxiao/fs_vfx_d_add_02
+  rotate: true
+  xy: 177, 323
+  size: 58, 573
+  orig: 165, 579
+  offset: 51, 6
+  index: -1
+image/dengdieluoguangxiao/fs_vfx_d_add_03
+  rotate: true
+  xy: 177, 129
+  size: 55, 579
+  orig: 165, 579
+  offset: 54, 0
+  index: -1
+image/dengdieluoguangxiao/fs_vfx_d_add_04
+  rotate: false
+  xy: 1056, 138
+  size: 53, 556
+  orig: 165, 579
+  offset: 55, 0
+  index: -1
+image/dengdieluoguangxiao/fs_vfx_d_add_05
+  rotate: true
+  xy: 2, 9
+  size: 55, 557
+  orig: 165, 579
+  offset: 52, 3
+  index: -1
+image/dengdieluoguangxiao/fs_vfx_d_add_06
+  rotate: true
+  xy: 560, 75
+  size: 52, 552
+  orig: 165, 579
+  offset: 57, 18
+  index: -1
+image/dengdieluoguangxiao/fs_vfx_d_add_07
+  rotate: true
+  xy: 2, 66
+  size: 61, 556
+  orig: 165, 579
+  offset: 55, 19
+  index: -1
+image/dengdieluoguangxiao/fs_vfx_d_add_08
+  rotate: true
+  xy: 177, 186
+  size: 66, 558
+  orig: 165, 579
+  offset: 54, 21
+  index: -1
+image/dengdieluoguangxiao/fs_vfx_d_add_09
+  rotate: true
+  xy: 561, 2
+  size: 71, 515
+  orig: 165, 579
+  offset: 50, 64
+  index: -1
+image/dengdieluoguangxiao/fs_vfx_d_add_10
+  rotate: true
+  xy: 177, 254
+  size: 67, 564
+  orig: 165, 579
+  offset: 50, 15
+  index: -1
+image/dengdieluoguangxiao/fs_vfx_d_add_11
+  rotate: true
+  xy: 177, 631
+  size: 63, 577
+  orig: 165, 579
+  offset: 51, 2
+  index: -1
+image/dengdieluoguangxiao/fs_vfx_d_add_12
+  rotate: true
+  xy: 177, 507
+  size: 60, 576
+  orig: 165, 579
+  offset: 51, 3
+  index: -1
+image/dengdieluoguangxiao/fs_vfx_d_add_13
+  rotate: true
+  xy: 177, 445
+  size: 60, 576
+  orig: 165, 579
+  offset: 51, 3
+  index: -1
+image/jiasuguanxiao/fs_vfx_a_screen
+  rotate: false
+  xy: 2, 175
+  size: 173, 519
+  orig: 173, 519
+  offset: 0, 0
+  index: -1
+image/jiasuguanxiao/fs_vfx_b_add
+  rotate: false
+  xy: 975, 254
+  size: 79, 440
+  orig: 79, 440
+  offset: 0, 0
+  index: -1
+image/jiasuguanxiao/fs_vfx_c_screen
+  rotate: false
+  xy: 756, 283
+  size: 217, 411
+  orig: 217, 411
+  offset: 0, 0
+  index: -1
+image/zhezhao
+  rotate: false
+  xy: 743, 206
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1

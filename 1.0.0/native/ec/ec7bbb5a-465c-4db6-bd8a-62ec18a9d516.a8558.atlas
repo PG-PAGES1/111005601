@@ -1,0 +1,13 @@
+
+bg_light.jpg
+size: 183,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sd_vfx_c_add
+  rotate: false
+  xy: 2, 2
+  size: 179, 180
+  orig: 179, 180
+  offset: 0, 0
+  index: -1

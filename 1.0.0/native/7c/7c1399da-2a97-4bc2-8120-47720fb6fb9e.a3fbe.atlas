@@ -1,0 +1,118 @@
+
+boomFX.jpg
+size: 1457,1457
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_boom
+  rotate: true
+  xy: 1238, 813
+  size: 324, 90
+  orig: 324, 90
+  offset: 0, 0
+  index: -1
+fx_particle/fs_selection_particle_a_add_00
+  rotate: true
+  xy: 1238, 1139
+  size: 316, 217
+  orig: 324, 495
+  offset: 1, 117
+  index: -1
+fx_particle/fs_selection_particle_a_add_01
+  rotate: true
+  xy: 955, 805
+  size: 324, 245
+  orig: 324, 495
+  offset: 0, 104
+  index: -1
+fx_particle/fs_selection_particle_a_add_02
+  rotate: false
+  xy: 633, 854
+  size: 320, 275
+  orig: 324, 495
+  offset: 4, 90
+  index: -1
+fx_particle/fs_selection_particle_a_add_03
+  rotate: true
+  xy: 328, 813
+  size: 316, 303
+  orig: 324, 495
+  offset: 1, 77
+  index: -1
+fx_particle/fs_selection_particle_a_add_04
+  rotate: true
+  xy: 1067, 116
+  size: 324, 333
+  orig: 324, 495
+  offset: 0, 64
+  index: -1
+fx_particle/fs_selection_particle_a_add_05
+  rotate: false
+  xy: 980, 442
+  size: 324, 361
+  orig: 324, 495
+  offset: 0, 51
+  index: -1
+fx_particle/fs_selection_particle_a_add_06
+  rotate: false
+  xy: 654, 416
+  size: 324, 387
+  orig: 324, 495
+  offset: 0, 39
+  index: -1
+fx_particle/fs_selection_particle_a_add_07
+  rotate: true
+  xy: 328, 52
+  size: 324, 411
+  orig: 324, 495
+  offset: 0, 28
+  index: -1
+fx_particle/fs_selection_particle_a_add_08
+  rotate: false
+  xy: 328, 378
+  size: 324, 433
+  orig: 324, 495
+  offset: 0, 18
+  index: -1
+fx_particle/fs_selection_particle_a_add_09
+  rotate: true
+  xy: 328, 1131
+  size: 324, 453
+  orig: 324, 495
+  offset: 0, 9
+  index: -1
+fx_particle/fs_selection_particle_a_add_10
+  rotate: false
+  xy: 2, 984
+  size: 324, 471
+  orig: 324, 495
+  offset: 0, 1
+  index: -1
+fx_particle/fs_selection_particle_a_add_11
+  rotate: true
+  xy: 783, 1131
+  size: 324, 453
+  orig: 324, 495
+  offset: 0, 29
+  index: -1
+fx_particle/fs_selection_particle_a_add_12
+  rotate: false
+  xy: 2, 513
+  size: 324, 469
+  orig: 324, 495
+  offset: 0, 23
+  index: -1
+fx_particle/fs_selection_particle_a_add_13
+  rotate: false
+  xy: 2, 54
+  size: 324, 457
+  orig: 324, 495
+  offset: 0, 19
+  index: -1
+fx_particle/fs_selection_particle_a_add_14
+  rotate: false
+  xy: 741, 29
+  size: 324, 385
+  orig: 324, 495
+  offset: 0, 99
+  index: -1

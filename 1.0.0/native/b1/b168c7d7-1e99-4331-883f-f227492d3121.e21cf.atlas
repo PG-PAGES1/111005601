@@ -1,0 +1,20 @@
+
+winagain.jpg
+size: 534,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_flare_c
+  rotate: false
+  xy: 2, 162
+  size: 370, 370
+  orig: 370, 370
+  offset: 0, 0
+  index: -1
+bw_flare_d
+  rotate: false
+  xy: 2, 2
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1

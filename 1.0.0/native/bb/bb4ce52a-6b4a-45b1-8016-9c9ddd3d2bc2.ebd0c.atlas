@@ -1,0 +1,41 @@
+
+bigwin.png
+size: 484,741
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dajiangguangxiao/bw_flare_a
+  rotate: false
+  xy: 319, 162
+  size: 162, 205
+  orig: 162, 205
+  offset: 0, 0
+  index: -1
+dajiangguangxiao/bw_flare_b
+  rotate: false
+  xy: 2, 52
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+dajiangguangxiao/bw_flare_c
+  rotate: false
+  xy: 2, 369
+  size: 370, 370
+  orig: 370, 370
+  offset: 0, 0
+  index: -1
+dajiangguangxiao/bw_flare_d
+  rotate: false
+  xy: 319, 2
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+dajiangguangxiao/bw_glow_a
+  rotate: false
+  xy: 374, 630
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1

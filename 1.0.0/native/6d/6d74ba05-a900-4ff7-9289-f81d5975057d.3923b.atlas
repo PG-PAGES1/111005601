@@ -1,0 +1,27 @@
+
+jiesuan.png
+size: 1041,762
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+126e9131-5d0e-40cc-a71b-0e4ae62e6fdc
+  rotate: false
+  xy: 823, 292
+  size: 216, 468
+  orig: 216, 468
+  offset: 0, 0
+  index: -1
+mianfeijiesuanbeijintu
+  rotate: true
+  xy: 2, 382
+  size: 378, 819
+  orig: 378, 819
+  offset: 0, 0
+  index: -1
+mianfeiyouxijiesuanbeijinyuansu
+  rotate: true
+  xy: 2, 2
+  size: 378, 719
+  orig: 378, 819
+  offset: 0, 50
+  index: -1

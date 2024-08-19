@@ -1,0 +1,306 @@
+
+yingfenlan.png
+size: 1192,1100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+luoyetexiao/ib_vfx_a_normal_00
+  rotate: false
+  xy: 853, 597
+  size: 229, 149
+  orig: 380, 238
+  offset: 70, 42
+  index: -1
+luoyetexiao/ib_vfx_a_normal_01
+  rotate: false
+  xy: 944, 436
+  size: 215, 159
+  orig: 380, 238
+  offset: 73, 63
+  index: -1
+luoyetexiao/ib_vfx_a_normal_02
+  rotate: false
+  xy: 722, 441
+  size: 220, 154
+  orig: 380, 238
+  offset: 66, 75
+  index: -1
+luoyetexiao/ib_vfx_a_normal_03
+  rotate: false
+  xy: 243, 780
+  size: 226, 123
+  orig: 380, 238
+  offset: 62, 81
+  index: -1
+luoyetexiao/ib_vfx_a_normal_04
+  rotate: false
+  xy: 471, 771
+  size: 218, 130
+  orig: 380, 238
+  offset: 70, 83
+  index: -1
+luoyetexiao/ib_vfx_a_normal_05
+  rotate: false
+  xy: 983, 748
+  size: 207, 133
+  orig: 380, 238
+  offset: 77, 85
+  index: -1
+luoyetexiao/ib_vfx_a_normal_06
+  rotate: false
+  xy: 427, 633
+  size: 209, 136
+  orig: 380, 238
+  offset: 75, 84
+  index: -1
+luoyetexiao/ib_vfx_a_normal_07
+  rotate: false
+  xy: 638, 609
+  size: 213, 138
+  orig: 380, 238
+  offset: 73, 81
+  index: -1
+luoyetexiao/ib_vfx_a_normal_08
+  rotate: false
+  xy: 2, 668
+  size: 212, 135
+  orig: 380, 238
+  offset: 73, 77
+  index: -1
+luoyetexiao/ib_vfx_a_normal_09
+  rotate: false
+  xy: 216, 643
+  size: 209, 135
+  orig: 380, 238
+  offset: 73, 70
+  index: -1
+luoyetexiao/ib_vfx_a_normal_10
+  rotate: false
+  xy: 838, 749
+  size: 143, 140
+  orig: 380, 238
+  offset: 74, 60
+  index: -1
+luoyetexiao/ib_vfx_a_normal_11
+  rotate: true
+  xy: 691, 760
+  size: 139, 145
+  orig: 380, 238
+  offset: 76, 48
+  index: -1
+luoyetexiao/ib_vfx_a_normal_12
+  rotate: false
+  xy: 2, 844
+  size: 114, 112
+  orig: 380, 238
+  offset: 76, 72
+  index: -1
+luoyetexiao/ib_vfx_a_normal_13
+  rotate: false
+  xy: 514, 904
+  size: 112, 107
+  orig: 380, 238
+  offset: 76, 67
+  index: -1
+luoyetexiao/ib_vfx_a_normal_14
+  rotate: false
+  xy: 1079, 995
+  size: 110, 103
+  orig: 380, 238
+  offset: 76, 61
+  index: -1
+luoyetexiao/ib_vfx_a_normal_15
+  rotate: false
+  xy: 969, 1003
+  size: 108, 95
+  orig: 380, 238
+  offset: 76, 56
+  index: -1
+luoyetexiao/ib_vfx_a_normal_16
+  rotate: true
+  xy: 18, 1079
+  size: 19, 39
+  orig: 380, 238
+  offset: 163, 99
+  index: -1
+luoyetexiao/ib_vfx_a_normal_17
+  rotate: true
+  xy: 2, 1087
+  size: 11, 14
+  orig: 380, 238
+  offset: 164, 110
+  index: -1
+tuanzhongjiangguangxiao02/sd_vfx_c_add
+  rotate: true
+  xy: 722, 191
+  size: 243, 244
+  orig: 243, 244
+  offset: 0, 0
+  index: -1
+zhangshikuangui/ib_bar_a
+  rotate: false
+  xy: 2, 2
+  size: 718, 182
+  orig: 718, 186
+  offset: 0, 0
+  index: -1
+zhangshikuangui/ib_bar_a_mask
+  rotate: false
+  xy: 2, 492
+  size: 718, 115
+  orig: 718, 115
+  offset: 0, 0
+  index: -1
+zhangshikuangui/ib_bar_a_mask_01
+  rotate: true
+  xy: 229, 1031
+  size: 67, 111
+  orig: 67, 186
+  offset: 0, 0
+  index: -1
+zhangshikuangui/ib_bar_a_mask_02
+  rotate: true
+  xy: 342, 1031
+  size: 67, 111
+  orig: 67, 186
+  offset: 0, 0
+  index: -1
+zhangshikuangui/ib_bar_b_mask
+  rotate: false
+  xy: 2, 347
+  size: 718, 143
+  orig: 718, 152
+  offset: 0, 5
+  index: -1
+zhangshikuangui/ib_bar_c_mask
+  rotate: false
+  xy: 2, 186
+  size: 718, 159
+  orig: 718, 159
+  offset: 0, 0
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_00
+  rotate: false
+  xy: 628, 903
+  size: 120, 108
+  orig: 200, 200
+  offset: 40, 49
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_01
+  rotate: false
+  xy: 750, 901
+  size: 115, 110
+  orig: 200, 200
+  offset: 38, 47
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_03
+  rotate: false
+  xy: 118, 805
+  size: 123, 116
+  orig: 200, 200
+  offset: 33, 44
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_04
+  rotate: false
+  xy: 867, 891
+  size: 123, 110
+  orig: 200, 200
+  offset: 33, 44
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_05
+  rotate: false
+  xy: 992, 883
+  size: 125, 110
+  orig: 200, 200
+  offset: 32, 44
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_06
+  rotate: false
+  xy: 2, 958
+  size: 125, 106
+  orig: 200, 200
+  offset: 32, 48
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_07
+  rotate: false
+  xy: 129, 923
+  size: 125, 106
+  orig: 200, 200
+  offset: 32, 47
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_08
+  rotate: false
+  xy: 256, 923
+  size: 127, 106
+  orig: 200, 200
+  offset: 31, 47
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_09
+  rotate: false
+  xy: 385, 905
+  size: 127, 106
+  orig: 200, 200
+  offset: 31, 47
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_10
+  rotate: false
+  xy: 455, 1013
+  size: 127, 85
+  orig: 200, 200
+  offset: 31, 48
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_11
+  rotate: false
+  xy: 584, 1013
+  size: 127, 85
+  orig: 200, 200
+  offset: 31, 48
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_12
+  rotate: false
+  xy: 713, 1013
+  size: 127, 85
+  orig: 200, 200
+  offset: 31, 48
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_13
+  rotate: false
+  xy: 842, 1013
+  size: 125, 85
+  orig: 200, 200
+  offset: 33, 48
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_14
+  rotate: true
+  xy: 59, 1066
+  size: 32, 83
+  orig: 200, 200
+  offset: 125, 48
+  index: -1
+zhangshikuangyingfenguangx/wh_vfx_d_add_15
+  rotate: true
+  xy: 144, 1066
+  size: 32, 83
+  orig: 200, 200
+  offset: 125, 49
+  index: -1
+
+yingfenlan2.png
+size: 722,446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhangshikuangui/ib_bar_b
+  rotate: false
+  xy: 2, 216
+  size: 718, 228
+  orig: 718, 228
+  offset: 0, 0
+  index: -1
+zhangshikuangui/ib_bar_c
+  rotate: false
+  xy: 2, 2
+  size: 718, 212
+  orig: 718, 212
+  offset: 0, 0
+  index: -1

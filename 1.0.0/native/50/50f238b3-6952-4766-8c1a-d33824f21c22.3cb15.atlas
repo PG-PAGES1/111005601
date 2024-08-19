@@ -1,0 +1,118 @@
+
+anniu.png
+size: 1160,762
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_00
+  rotate: true
+  xy: 770, 266
+  size: 242, 240
+  orig: 350, 350
+  offset: 59, 58
+  index: -1
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_01
+  rotate: false
+  xy: 974, 576
+  size: 184, 184
+  orig: 350, 350
+  offset: 79, 84
+  index: -1
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_02
+  rotate: true
+  xy: 784, 570
+  size: 190, 188
+  orig: 350, 350
+  offset: 80, 82
+  index: -1
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_03
+  rotate: true
+  xy: 2, 2
+  size: 220, 218
+  orig: 350, 350
+  offset: 66, 69
+  index: -1
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_04
+  rotate: true
+  xy: 536, 510
+  size: 250, 246
+  orig: 350, 350
+  offset: 54, 60
+  index: -1
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_05
+  rotate: false
+  xy: 270, 226
+  size: 262, 266
+  orig: 350, 350
+  offset: 49, 47
+  index: -1
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_06
+  rotate: false
+  xy: 2, 492
+  size: 266, 268
+  orig: 350, 350
+  offset: 47, 46
+  index: -1
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_07
+  rotate: false
+  xy: 534, 226
+  size: 234, 266
+  orig: 350, 350
+  offset: 49, 48
+  index: -1
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_08
+  rotate: false
+  xy: 270, 494
+  size: 264, 266
+  orig: 350, 350
+  offset: 48, 49
+  index: -1
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_09
+  rotate: false
+  xy: 2, 224
+  size: 266, 266
+  orig: 350, 350
+  offset: 47, 49
+  index: -1
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_10
+  rotate: false
+  xy: 864, 56
+  size: 208, 208
+  orig: 350, 350
+  offset: 71, 71
+  index: -1
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_11
+  rotate: false
+  xy: 652, 14
+  size: 210, 210
+  orig: 350, 350
+  offset: 70, 70
+  index: -1
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_12
+  rotate: false
+  xy: 438, 12
+  size: 212, 212
+  orig: 350, 350
+  offset: 69, 69
+  index: -1
+e906efe9-882a-426e-aa29-9fcb48e9ecd6/spin_vfx_a_13
+  rotate: false
+  xy: 222, 8
+  size: 214, 214
+  orig: 350, 350
+  offset: 68, 68
+  index: -1
+xuanzhuananniu/mh_vfx_02
+  rotate: false
+  xy: 1012, 292
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+xuanzhuananniu/mh_vfx_03
+  rotate: false
+  xy: 1012, 434
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
